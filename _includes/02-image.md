@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Excited pepe frog with his hands up.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngio.com%2FPNG%2Fa28230-emote-png.html&psig=AOvVaw2K_HDbONIu0ccpTnb7Dtp-&ust=1600585294365000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiwuYvT9OsCFQAAAAAdAAAAABAD.png)
