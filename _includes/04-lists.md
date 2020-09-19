@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Favorite food places
+1. Wendy's
+2. Panda Express
+3. Shake Shack
